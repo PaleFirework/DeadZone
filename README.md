@@ -2,6 +2,10 @@
 
 Unreal Engine 5.7 项目。本仓库**仅包含源代码与配置文件**，`Content/` 下的游戏素材**未包含在内**（详见[素材说明](#素材说明)）。
 
+## 项目演示视频
+
+百度网盘（提取码：`sb5q`）：https://pan.baidu.com/s/1H8a3DNjxfjDTjwH00o3FZQ?pwd=sb5q
+
 ## 环境要求
 
 - Unreal Engine **5.7**
