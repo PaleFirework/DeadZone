@@ -1,0 +1,43 @@
+# ============================================================
+# DeadZone — Unreal Engine 5.7 代码仓库
+# 本仓库只上传代码与配置，Content/ 素材不上传
+# ============================================================
+
+# ---- 不上传的工程目录 ----
+# 游戏素材（商城资源包，体积约 4.8GB）
+Content/
+# 编译产物
+Binaries/
+# 构建中间文件
+Intermediate/
+# 引擎缓存
+DerivedDataCache/
+# 运行时存档 / 日志 / 自动保存
+Saved/
+# 打包构建输出
+Build/
+
+# ---- 用户 / IDE 文件 ----
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.booproj
+*.pidb
+*.svd
+*.sln.DotSettings.user
+*.opendb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+xcuserdata/
+*.xcodeproj
+
+# ---- 系统垃圾文件 ----
+.DS_Store
+Thumbs.db
+
+# ---- 其他 ----
+*.stackdump
